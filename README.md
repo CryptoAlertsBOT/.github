@@ -1,3 +1,3 @@
 # .github
 
-![System Diagram](SD.svg)
+![System Diagram](sd.png)
