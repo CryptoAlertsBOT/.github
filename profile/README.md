@@ -8,5 +8,5 @@
 🌈 Contribution guidelines - email me contact@kautilyak.dev
 -->
 
-# Current Architectre
+# Current Architecture
 ![Diagram](../sd.png)
