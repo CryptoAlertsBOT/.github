@@ -9,4 +9,4 @@
 -->
 
 # Current Architecture
-![Diagram](../sd.png)
+![Diagram](sd.png)
