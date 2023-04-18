@@ -7,3 +7,6 @@
 🙋‍♀️ Market alerts to monitor volatility and trade entries and automated strategies.
 🌈 Contribution guidelines - email me contact@kautilyak.dev
 -->
+
+# Current Architectre
+![Diagram](../sd.png)
